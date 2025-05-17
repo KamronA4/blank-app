@@ -1,1 +1,4 @@
 streamlit
+streamlit-card
+streamlit-extras
+streamlit-elements
